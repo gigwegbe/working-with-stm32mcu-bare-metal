@@ -15,6 +15,6 @@ The device for the board is Nucleo F446RE.
 - [ ] - [SPI]()
 
 ### Reference 
-- User Guide 
-- Reference Manual 
-- Datasheet 
+- [User Guide](https://www.st.com/resource/en/user_manual/um1724-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf)
+- [Reference Manual](https://www.st.com/resource/en/reference_manual/dm00135183-stm32f446xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
+- [Datasheet](https://www.st.com/resource/en/datasheet/stm32f446re.pdf)

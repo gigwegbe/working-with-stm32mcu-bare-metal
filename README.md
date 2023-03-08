@@ -5,7 +5,7 @@ The device for the board is Nucleo F446RE.
 ![Esp32](/asset/NUCLEO-F446RE-top-layout.jpg)
 
 - [x] - [Toggle LED](https://github.com/gigwegbe/working-with-stm32mcu-bare-metal/tree/main/0_led_toggle_addr)
-- [ ] - [GPIO]()
+- [x] - [GPIO](https://github.com/gigwegbe/working-with-stm32mcu-bare-metal/tree/main/2_gpio_output)
 - [ ] - [UART]()
 - [ ] - [ADC]()
 - [ ] - [SysTick]()

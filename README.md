@@ -2,7 +2,7 @@
 
 The purpose of this project is to understand how to write bare metal programs without the high level abstraction(HAL) in stm32 ecosystem. 
 The device for the board is Nucleo F446RE. 
-![Esp32](/asset/NUCLEO-F446RE-top-layout.jpg)
+![Esp32](/asset/f746_board.jpg)
 
 - [x] - [Toggle LED](https://github.com/gigwegbe/working-with-stm32mcu-bare-metal/tree/main/0_led_toggle_addr)
 - [x] - [GPIO](https://github.com/gigwegbe/working-with-stm32mcu-bare-metal/tree/main/2_gpio_output)
